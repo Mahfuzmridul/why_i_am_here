@@ -5,3 +5,5 @@ Not everyone makes it this far.
 Now the piggybank is yours, Player.
 
 But remember, the game’s not over until the last coin drops.
+
+RCSC{I_Survived_But_Lost_My_Teeth}
